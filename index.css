@@ -307,7 +307,7 @@ button {
   width: 600px;
   height: 600px;
   margin: 170.976px 0 0 143px;
-  background: url(/images/512.png) no-repeat center;
+  background: url(/images/hero.jpg) no-repeat center;
   background-size: cover;
   z-index: 14;
   overflow: visible auto;
@@ -637,8 +637,7 @@ button {
   height: 33px;
   top: 3397px;
   left: 0;
-  background: url(./assets/images/fed3a2b5-45cd-476f-8493-aba02a203658.png)
-    no-repeat center;
+  background: url(/images/gradient-bg.jpg) no-repeat center;
   background-size: cover;
   z-index: 72;
 }
