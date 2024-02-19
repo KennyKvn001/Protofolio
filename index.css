@@ -424,7 +424,7 @@ button {
   left: 122px;
   background: url(/images/512.png) no-repeat center;
   background-size: cover;
-  z-index: 33;
+  z-index: 23;
 }
 
 /** about me **/
