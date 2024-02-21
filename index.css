@@ -627,7 +627,7 @@ button {
   position: relative;
   width: 24px;
   height: 24px;
-  background: url(/images/copyright.png) no-repeat center;
+  background: url(images/copyright.png) no-repeat center;
   background-size: cover;
   z-index: 78;
 }
@@ -637,7 +637,7 @@ button {
   height: 33px;
   top: 3397px;
   left: 0;
-  background: url(/images/gradient-bg.jpg) no-repeat center;
+  background: url(images/gradient-bg.jpg) no-repeat center;
   background-size: cover;
   z-index: 72;
 }
