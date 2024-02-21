@@ -236,7 +236,7 @@ button {
   height: 30px;
   top: 13px;
   left: 189px;
-  background: url(/images/linkedin.png) no-repeat center;
+  background: url(images/linkedin.png) no-repeat center;
   background-size: cover;
   z-index: 65;
 }
@@ -276,7 +276,7 @@ button {
   height: 42px;
   top: 0;
   left: 38.64%;
-  background: url(/images/linkedin.png) no-repeat center;
+  background: url(images/linkedin.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 34;
 }
@@ -286,7 +286,7 @@ button {
   height: 42px;
   top: 0;
   left: 0;
-  background: url(/images/github.png) no-repeat center;
+  background: url(images/github.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 4;
 }
@@ -296,7 +296,7 @@ button {
   height: 52px;
   top: 0;
   left: 79.69%;
-  background: url(/images/gmail.png) no-repeat center;
+  background: url(images/gmail.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 666;
 }
@@ -307,7 +307,7 @@ button {
   width: 600px;
   height: 600px;
   margin: 170.976px 0 0 143px;
-  background: url(/images/hero.jpg) no-repeat center;
+  background: url(images/hero.jpg) no-repeat center;
   background-size: cover;
   z-index: 14;
   overflow: visible auto;
@@ -412,7 +412,7 @@ button {
   height: 44px;
   top: 18px;
   left: 260px;
-  background: url(/images0) no-repeat center;
+  background: url(images0) no-repeat center;
   background-size: cover;
   z-index: 13;
 }
@@ -422,7 +422,7 @@ button {
   height: 485px;
   top: 1466px;
   left: 122px;
-  background: url(/images/512.png) no-repeat center;
+  background: url(images/512.png) no-repeat center;
   background-size: cover;
   z-index: 33;
 }
@@ -545,7 +545,7 @@ button {
   width: 129.464px;
   height: 102.15px;
   margin: 42px 0 0 41px;
-  background: url(/images/72.png) no-repeat center;
+  background: url(images/72.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 76;
 }
@@ -573,7 +573,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(/images/github.png) no-repeat center;
+  background: url(images/github.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 73;
 }
@@ -591,7 +591,7 @@ button {
   position: relative;
   width: 42px;
   height: 42px;
-  background: url(/images/gmail.png) no-repeat center;
+  background: url(images/gmail.png) no-repeat center;
   background-size: 100% 100%;
   z-index: 71;
 }
